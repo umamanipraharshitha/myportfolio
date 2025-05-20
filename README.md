@@ -18,9 +18,6 @@ I'm a passionate tech enthusiast pursuing a dual degree in **Computer Science En
 ## 🛠 Tech Stack
 HTML · CSS · JavaScript · React · Node.js · Python · SQLite · Git · GitHub
 
-## 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/umamanipraharshitha)
-
 
 ---
 
