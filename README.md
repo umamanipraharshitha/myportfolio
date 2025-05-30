@@ -6,6 +6,7 @@ I'm a passionate tech enthusiast pursuing a dual degree in **Computer Science En
 - **Quiz Master** – A quiz management system for efficient exam prep
 - **LibStack** – A lightweight library tracker and organizer
 - **MyPortfolio** – Personal portfolio site showcasing my work and interests
+- **LeafLytic** – Plant disease detection website
 
 ## 🌱 Currently Learning
 - Node.js · React · Machine Learning · API Development
